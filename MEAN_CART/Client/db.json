@@ -1,0 +1,219 @@
+{"item":[
+ 
+    {
+        "id": 1,
+        "title": "Watch Wave Pro",
+        "price": 2799,
+        "description": "Classic and Premium",
+        "category": "boAt",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_0ae2597d-dee4-42fd-9a18-eb4ae0b3bc43_720x.png?v=1647765304",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 2,
+        "title": "Watch Wave Lite' ",
+        "price": 2000,
+        "description": "Protect yourself with password encryption.Fully operational digital crown to scroll & select that eases operations.",
+        "category": "boAt",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_maroon_9b2c008c-1cf9-49e3-988d-3cb43a456d80_720x.png?v=1648108782",
+        "rating": {
+          "rate": 4.1,
+          "count": 259
+        }
+      },
+      {
+        "id": 3,
+        "title": "boAt Watch Xtend‌",
+        "price": 2990,
+        "description": "This fit band is so good and so adjustable like it could be fit for any kind of ppl whether they have thin wrist or thick",
+        "category": "boAt",
+        "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_529ecf13-c993-4fe7-a2d6-9357f1a47db4_720x.png?v=1650387008",
+        "rating": {
+          "rate": 4.7,
+          "count": 500
+        }
+      },
+      {
+        "id": 4,
+        "title": "boAt Storm 1.3",
+        "price": 2499,
+        "description": "Get ready to keep a track of your fitness and health stats in style with the boAt Storm Smartwatch",
+        "category": "boAt",
+        "image": "https://rukminim2.flixcart.com/image/416/416/kzpw2vk0/smartwatch/k/x/i/-original-imagbnnrs7ngq8w6.jpeg?q=70",
+        "rating": {
+          "rate": 2.1,
+          "count": 430
+        }
+      },
+      {
+        "id": 5,
+        "title": "MAXIMA ATTIVO COLLECTION-O-44962LMGI",
+        "price": 1513,
+        "description": "The aluminium case is lightweight and made from 100 per cent recycled aerospace-grade alloy",
+        "category": "Maxima",
+        "image": "https://www.maximawatches.com/images/category/angles/mimg/O-44962LMGI.jpg",
+        "rating": {
+          "rate": 4.6,
+          "count": 400
+        }
+      },
+      {
+        "id": 6,
+        "title": "MAXIMA GENTS STEEL 25142CMGI ",
+        "price": 1434,
+        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. WATER RESISTENT-30M",
+        "category": "Maxima",
+        "image": "https://www.maximawatches.com/images/category/angles/mimg/27122LMLI.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 70
+        }
+      },
+      {
+        "id": 7,
+        "title": "MAXIMA AQUA GENTS-02244PPGW",
+        "price": 3999,
+        "description": "Classic. WATER PROOF-30M. SILVER OXIDE(SR626SW)",
+        "category": "Maxima",
+        "image": "https://www.maximawatches.com/images/category/angles/mimg/02244PPGW.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 400
+        }
+      },
+      {
+        "id": 8,
+        "title": "MAXIMA ATTIVO LADIES-28020CMLI",
+        "price": 1099,
+        "description": "Brand New Watch With 1 Year Warranty.. Made of 316L Stainless Steel",
+        "category": "Maxima",
+        "image": "https://www.maximawatches.com/images/category/angles/mimg/28020CMLI.jpg",
+        "rating": {
+          "rate": 1.9,
+          "count": 100
+        }
+      },
+      {
+        "id": 9,
+        "title": "BLUE DIAL STAINLESS STEEL STRAP WATCH ",
+        "price": 2950,
+        "description": "The easy collection, that's just the vibe for your everyday wear. Choose any one from the range and it just goes with whatever you flow with, dapper formals and even brunch casuals.",
+        "category": "fastrack",
+        "image": "https://staticimg.titan.co.in/Fastrack/Catalog/3246NM01_1.jpg?pView=pdp",
+        "rating": {
+          "rate": 3.3,
+          "count": 203
+        }
+      },
+      {
+        "id": 10,
+        "title": "GREY DIAL STAINLESS STEEL STRAP WATCH",
+        "price": 2650,
+        "description": "This watch offers 24 months warranty on the Movement and 12 months warranty on the Battery from the date of purchase.",
+        "category": "fastrack",
+        "image": "https://staticimg.titan.co.in/Fastrack/Catalog/3247NM02_1.jpg?pView=pdp",
+        "rating": {
+          "rate": 2.9,
+          "count": 470
+        }
+      },
+      {
+        "id": 11,
+        "title": "TRIPSTER BLACK DIAL STAINLESS STEEL STRAP WATCH",
+        "price": 3109,
+        "description": "Brand New Watch With 1 Year Warranty.. Made of 316L Stainless Steel.",
+        "category": "fastrack",
+        "image": "https://staticimg.titan.co.in/Fastrack/Catalog/3245NM01_1.jpg?pView=pdp",
+        "rating": {
+          "rate": 4.8,
+          "count": 319
+        }
+      },
+      {
+        "id": 12,
+        "title": "GAMIFY WATCH WITH GREY DIAL",
+        "price": 4114,
+        "description": "Brown watch designed for the perfect gamer look. Pair this brown watch with your white shirt to get a very appealing outlook.",
+        "category": "fastrack",
+        "image": "https://staticimg.titan.co.in/Fastrack/Catalog/3250NM01_1.jpg?pView=pdp",
+        "rating": {
+          "rate": 4.8,
+          "count": 400
+        }
+      },
+      {
+        "id": 13,
+        "title": "GAMIFY WATCH WITH BLACK DIAL",
+        "price": 5990,
+        "description": "A black sporty watch designed for the tough gamer look. Pair this black watch with your denims for an uber cool look.",
+        "category": "fastrack",
+        "image": "https://staticimg.titan.co.in/Fastrack/Catalog/3249NL01_1.jpg?pView=pdp",
+        "rating": {
+          "rate": 2.9,
+          "count": 250
+        }
+      },
+      {
+        "id": 14,
+        "title": "GAMIFY WATCH WITH GREYISH BLUE DIAL ",
+        "price": 2395,
+        "description": "Black watch designed for the perfect gamer look. Pair this black watch with your white shirt to get a very appealing outlook.",
+        "category": "fastrack",
+        "image": "https://staticimg.titan.co.in/Fastrack/Catalog/3250NP01_1.jpg?pView=pdp",
+        "rating": {
+          "rate": 2.2,
+          "count": 140
+        }
+      },
+      {
+        "id": 15,
+        "title": "Neo Splash Blue Dial Stainless Steel Strap Watch",
+        "price": 5699,
+        "description": "Titan Blue Dial Analog with Date Watch for Men",
+        "category": "Titan",
+        "image": "https://staticimg.titan.co.in/Titan/Catalog/1805QM02_1.jpg?impolicy=pqmed&imwidth=320",
+        "rating": {
+          "rate": 2.6,
+          "count": 235
+        }
+      },
+      {
+        "id": 16,
+        "title": "Titan Smart Pro Touch Screen Smart Watch",
+        "price": 11995,
+        "description": "Black Strap Aluminum case",
+        "category": "Titan",
+        "image": "https://staticimg.titan.co.in/Titan/Catalog/90149AP01_1.jpg?pView=pdp",
+        "rating": {
+          "rate": 2.9,
+          "count": 340
+        }
+      },
+      {
+        "id": 17,
+        "title": "Punjab Collection Rose Gold Dial White Leather Strap Watch",
+        "price": 35995,
+        "description": "Titan Rose Gold Dial Analog with Date Watch for Women",
+        "category": "Titan",
+        "image": "https://staticimg.titan.co.in/Titan/Catalog/2629WL01_1.jpg?pView=pdp",
+        "rating": {
+          "rate": 3.8,
+          "count": 679
+        }
+      },
+      {
+        "id": 18,
+        "title": "White Dial Silver Stainless Steel Strap Watch ",
+        "price": 4795,
+        "description": "Titan Analog Watch for Women with Day & Date Function",
+        "category": "Titan",
+        "image": "https://staticimg.titan.co.in/Titan/Catalog/9743SM01_1.jpg?pView=pdp",
+        "rating": {
+          "rate": 4.7,
+          "count": 130
+        }
+      }
+]}
