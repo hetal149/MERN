@@ -1,0 +1,83 @@
+
+
+.form-control {
+    border-radius: 3px;
+    width: 600px;
+    margin-left: 20px;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, rgb(26, 101, 167) , rgb(230, 30, 157)); 
+}
+
+strong,i {
+
+    font-size: 39px;
+    font-style: italic;
+    text-shadow: 3px 3px 8px black;
+   
+}
+
+// .search-icon {
+//     position: absolute;
+//     z-index: 10;
+//     right: 59%;
+//     top: 20px;
+//     color: blue;
+// }
+
+span {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 12px;
+    cursor: pointer;
+}
+
+.btn {
+    margin-right: 15px;
+    color: #fff;
+
+    &-signIn {
+        background-color: #670c6c;
+        box-shadow: 5px 5px 15px rgb(69, 6, 71);
+        transition: .2s ease-in;
+    }
+    &-signIn:hover {
+        background-color: #670c6c;
+        color: #fff;
+        transition: .2s ease-out;
+        transform: scale(1.20);
+    }
+    &-signUp {
+        background-color: #0a3f7b;
+        box-shadow: 5px 5px 15px rgb(4, 16, 74);
+    }
+    &-signUp:hover {
+        background-color: #0a3f7b;
+        color: #fff;
+        transition: .2s ease-out;
+        transform: scale(1.20);
+    }
+
+    &-cart {
+        background-color: rgb(212, 28, 144);
+        
+
+        .badge {
+            background-color: #00ADB5;
+        }
+    }
+
+    &-signOut {
+        background-color:rgb(26, 101, 167);
+        box-shadow: 5px 5px 15px black;
+    }
+    &-signOut:hover {
+        background-color: rgb(26, 101, 167);
+        color: #fff;
+        transition: .2s ease-out;
+        transform: scale(1.20);
+    }
+}
+
